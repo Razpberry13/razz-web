@@ -1,5 +1,4 @@
-import { Mail, Github, Linkedin, Instagram } from "lucide-react";
-import profilePhoto from "../photo.svg";
+import { Mail, Github, Linkedin, } from "lucide-react";
 
 export const Hoome = () => {
   return (
