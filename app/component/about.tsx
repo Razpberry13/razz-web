@@ -9,7 +9,7 @@ export const About = () => {
         </div>
 
         <p className="text-sm sm:text-sm text-gray-700 mb-12 leading-relaxed max-w-3xl mx-auto">
-          I'm a dedicated data science student passionate about transforming
+          I&apos;m a dedicated data science student passionate about transforming
           complex data into actionable insights. My expertise spans across
           multiple domains, combining technical skills with creative
           problem-solving approaches.

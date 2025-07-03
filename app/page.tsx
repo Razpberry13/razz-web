@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Hoome } from "./component/home";
 import { Navbar } from "./component/navbar";
 import { Summary } from "./component/summary";

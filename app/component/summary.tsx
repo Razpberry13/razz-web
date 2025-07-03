@@ -4,7 +4,7 @@ export const Summary = () => {
         <div className="text-justify max-w-5xl mt-8 mb-8">
           <h2 className="text-2xl sm:text-2xl font-bold mb-4">My Journey</h2>
           <p className="text-base sm:text-base text-gray-300 mb-6 leading-relaxed">
-            I'm a passionate data science student with a deep curiosity for
+            I&apos;m a passionate data science student with a deep curiosity for
             uncovering insights from complex datasets. My journey combines
             analytical thinking with creative problem-solving to transform raw
             data into meaningful stories.
